@@ -1,0 +1,31 @@
+Title: x86 Virtualization in a Nutshell
+
+$Id$
+
+I. Proprietary Hypervisors
+
+    A. VMware
+    
+        1. VMware ESX
+        2. VMware ESXi
+        
+    B. Hyper-V
+        
+        1. Windows Server 2008 with Virtualization Role
+        2. Hyper-V Server
+    
+II. Open Source Hypervisors 
+
+    A. Xen
+        
+        1. Citrix
+        2. SUSE Linux Enterprise
+        
+    B. KVM
+        
+        1. Red Hat Enterprise Linux
+        
+    C. VirtualBox
+    D. QEMU
+    
+
